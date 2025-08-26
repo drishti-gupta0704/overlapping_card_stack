@@ -1,6 +1,6 @@
 ## Overlapping Card Stack  
 
-# This project demonstrates a **stack of overlapping cards** created using **HTML** and **CSS**.  
+# This project demonstrates a stack of overlapping cards created using HTML and CSS.  
 Each card is slightly rotated and when we hover over a card,it smoothly comes to the front. 
 
 
@@ -8,7 +8,7 @@ Each card is slightly rotated and when we hover over a card,it smoothly comes to
 ![snapshot of the project](will be added soon)
 
 ### 🔗 Live Demo: 
-[click here to view live project](link will be added soon by netlify)
+[click here to view live project](https://overlappingstackcard.netlify.app/)
 
 ### ✨ Features  
 -  Cards arranged in a stacked and overlapping layout  
@@ -17,5 +17,5 @@ Each card is slightly rotated and when we hover over a card,it smoothly comes to
 
 
 ### 🛠️ Technologies Used  
--  **HTML**  
--  **CSS**  
+-  HTML 
+-  CSS  
