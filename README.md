@@ -5,7 +5,8 @@ Each card is slightly rotated and when we hover over a card,it smoothly comes to
 
 
 ### 📸 Demo  
-![snapshot of the project](will be added soon)
+<img src="image.png" alt="this is snapshot of the project" width="500">
+
 
 ### 🔗 Live Demo: 
 [click here to view live project](https://overlappingstackcard.netlify.app/)
