@@ -5,7 +5,7 @@ Each card is slightly rotated and when we hover over a card,it smoothly comes to
 
 
 ### 📸 Demo  
-<img src="image.png" alt="this is snapshot of the project" width="500">
+<img src="image.png" alt="this is snapshot of the project" width="400">
 
 
 ### 🔗 Live Demo: 
